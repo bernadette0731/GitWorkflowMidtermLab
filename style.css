@@ -1,6 +1,9 @@
-body {
-    background-color: rgb(197, 233, 100);
+:root {
+    --primary: #2563eb;
+    --bg: #ffffff;
+    --text: #0f172a;
+    --transition: all 0.3s ease;
 }
-h1 {
-    color:rgb(131, 78, 18);
-}
+[data-theme="dark"] { --bg: #0f172a; --text: #f8fafc; }
+body { background-color: var(--bg); color: var(--text); font-family: sans-serif; }
+.navbar { display: flex; justify-content: space-between; padding: 20px; }
