@@ -8,6 +8,7 @@ This project enables sellers to introduce their products to the market.
 - Delete product
 - View possible target demographic
 - Link your socials
+- Connect with customers
 
 ### Installation
 
