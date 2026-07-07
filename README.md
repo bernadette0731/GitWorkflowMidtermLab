@@ -4,7 +4,7 @@ This project enables sellers to introduce their products to the market.
 
 ## Features
 
-- Add product
+- Insert product
 - Edit product
 - Delete product
 - View possible target demographic
