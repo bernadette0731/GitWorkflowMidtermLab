@@ -3,8 +3,7 @@
 This project enables sellers to introduce their products to the market.
 
 ## Features
-
-- Insert product
+- Add products
 - Edit product
 - Delete product
 - View possible target demographic
